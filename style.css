@@ -1,0 +1,36 @@
+#ball1{
+  background-color:#fff;
+  border:1px solid red;
+  height:20px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  width:20px;
+  position: absolute;
+  top: -10px;
+  left: -10px;
+}
+#ball2{
+  background-color:#fff;
+  border:1px solid blue;
+  height:20px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  width:20px;
+  position: absolute;
+  top: -10px;
+  left: -10px;
+}
+#circleDisplay{
+  background-color:#fff;
+  border:1px solid black;
+  height: 820px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  width:820px;
+  position: absolute;
+  top: 40px;
+  left: 40px;
+}
